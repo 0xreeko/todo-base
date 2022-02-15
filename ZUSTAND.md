@@ -1,5 +1,5 @@
 # ZUSTAND - State manager
-From this very example, Zustand is a very appealing choice to me when deciding on an state manager. Because I now take TypeScript angle towards development, I'll be narrating the code and setup according to that.
+From this very example, Zustand is a very appealing choice to me when deciding on an state manager. Because I now take the TypeScript angle towards development, I'll be narrating the code and setup according to that.
 
 ## Install and Import
 To install zustand, it is like any other package library:
